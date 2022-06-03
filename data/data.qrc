@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>oui.csv</file>
+        <file>ip_merge.csv</file>
+    </qresource>
+</RCC>
