@@ -1,1 +1,3 @@
-"# Mac_format_conversion" 
+# Mac_format_conversion
+
+由于网络中各设备MAC格式不一致，所以制作此工具用于批量转换MAC地址格式
